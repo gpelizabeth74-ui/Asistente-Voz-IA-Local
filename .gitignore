@@ -1,0 +1,15 @@
+# Configuración de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos de audio generados
+*.mp3
+
+# Archivos de configuración de VS Code
+.vscode/
